@@ -1,0 +1,33 @@
+linguagem tipo JS
+
+atendimento
+
+cliente escolhe sabor
+confirmar ingrediente
+	if(! tem ingredientes){
+	pedir || buscar oq falta || recomece
+	}
+ligar o forno para preaquecimento
+fazer parte seca
+adiociona a parte molhada
+misturar fermento
+untar a forma
+adicionar a massa na forma
+reglular a temperatura do forno
+colocar no forno por x tempo
+verificar dps de x tempo
+apos pronto tirar do forno
+deligar caso fora de uso
+
+vai calda?
+escolher calda
+verificar ingredientes
+	if(! tem ingredientes){
+	pedir || buscar oq falta || recomece
+	}
+fazer a calda
+adicionar cobertura
+
+pagamento
+
+fim
