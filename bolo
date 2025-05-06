@@ -19,7 +19,7 @@ verificar dps de x tempo
 apos pronto tirar do forno
 deligar caso fora de uso
 
-vai calda?
+vai calda? nao vai calda
 escolher calda
 verificar ingredientes
 	if(! tem ingredientes){
